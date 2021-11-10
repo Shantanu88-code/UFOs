@@ -14,4 +14,4 @@ The filterTable() function will filter out the data by the value that is entered
 
 <img width="202" alt="Table_filters" src="https://user-images.githubusercontent.com/86980240/141208771-ee669d16-5233-4cbe-9880-720e94b343f8.png">
 
-
+<img width="920" alt="filtered_data" src="https://user-images.githubusercontent.com/86980240/141209075-7b385604-339d-48de-9cde-97f4c833baf2.png">
